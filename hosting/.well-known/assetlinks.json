@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.zhir.deep_link_test",
       "sha256_cert_fingerprints": [
-        "2D:03:EC:48:A5:F2:C6:5D:9B:FE:67:DC:A8:16:6F:02:29:D4:02:47:B8:0E:D1:25:D9:AD:33:C5:43:70:7F:D8"
+        "2D:03:EC:48:A5:F2:C6:5D:9B:FE:67:DC:A8:16:6F:02:29:D4:02:47:B8:0E:D1:25:D9:AD:33:C5:43:70:7F:D8",
+        "D1:09:E6:A6:1E:79:D8:7F:38:90:B9:ED:85:75:96:F6:AE:C0:FE:FB:1C:62:C1:B9:AE:86:80:A1:34:34:6D:3C"
       ]
     }
   }
