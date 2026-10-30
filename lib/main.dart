@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
-// Vercel hostname only, such as deep-link-test.vercel.app. No https://.
-const String deepLinkHost = 'example.com';
+const String deepLinkHost = 'deeplinktestapp-hosting.vercel.app';
 
 void main() {
   runApp(const MyApp());
